@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateContacts", "PrivateContacts.csproj", "{33CAAD2D-A2D9-44C4-A2D9-EDD4FA0711F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtonLogin", "..\ProtonLogin\ProtonLogin.csproj", "{49227765-525A-4572-93B5-37E29AE89C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33CAAD2D-A2D9-44C4-A2D9-EDD4FA0711F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CAAD2D-A2D9-44C4-A2D9-EDD4FA0711F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CAAD2D-A2D9-44C4-A2D9-EDD4FA0711F6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{33CAAD2D-A2D9-44C4-A2D9-EDD4FA0711F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CAAD2D-A2D9-44C4-A2D9-EDD4FA0711F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49227765-525A-4572-93B5-37E29AE89C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49227765-525A-4572-93B5-37E29AE89C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49227765-525A-4572-93B5-37E29AE89C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49227765-525A-4572-93B5-37E29AE89C39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34346459-570F-462A-90B3-C146A1F3D7D4}
+	EndGlobalSection
+EndGlobal
